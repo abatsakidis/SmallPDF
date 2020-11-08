@@ -10,7 +10,7 @@ SmallPDF is an program that can compress your PDF files easily.
 
 ## Screenshot
 
-![Alt text](/Pictures/screen.jpg?raw=true "SmallPDF")
+![Alt text](/Pictures/screen1.jpg?raw=true "SmallPDF")
 
 ## Tested on ##
 
